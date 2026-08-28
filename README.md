@@ -3,14 +3,17 @@
 # Sobre o projeto
 
 Projeto de análise de dados desenvolvido em **Power BI**, com o objetivo de analisar os acidentes ocorridos no Brasil em 2017.
+O dashboard busca transformar os dados de acidentes em informações relevantes para identificar padrões relacionados às características das ocorrências, localização, condições meteorológicas e períodos de maior incidência.
 
 # Objetivos da análise
 
-- Avaliar o numero de acidentes, os feridos e vitimas fatais do período.
-- Identificar os tipos de ocorrência, motivo, traçado e condição meteorológica desses acidentes.
-- Identificar os estados que mais ocorrem acidentes, assim como as principais cidades.
-- Identificar os horários, dias da semana e meses que mais ocorrem acidentes.
-
+- Avaliar o número de acidentes, pessoas envolvidas, feridos e vítimas fatais.
+- Identificar os principais tipos de ocorrência e motivos dos acidentes.
+- Analisar os acidentes de acordo com o traçado da via e o tipo de pista.
+- Identificar os estados e municípios com maior número de acidentes.
+- Identificar os meses, dias da semana e horários com maior incidência de acidentes.
+- Analisar os motivos associados às maiores taxas de mortalidade.
+- 
 # Principais indicadores
 
 - | Numero de Acidentes | Resultado |
@@ -22,39 +25,39 @@ Projeto de análise de dados desenvolvido em **Power BI**, com o objetivo de ana
 - | Mortes| 6243 |
 - | Taxa de Mortalidade| 6,98% |
 
-# Principais análises
+# Principais análises 
 
-# Pagina 1
+# Pagina 1 - Visão geral dos acidentes
 
 ![Dashboard Detran](detran1.PNG)
 
 # Acidentes por traçado
-- Analisando o gráfico Acidentes por traçado da via, podemos ver que quase 2/3 dos acidentes ocorrem em pistas retas. 
+- Aproximadamente 60% dos acidentes ocorreram em pistas retas, representando a maior concentração entre os tipos de traçado analisados.
 # Acidentes por ocorrência
--Colisões traseiras e saída de leito carroçável lideram os tipos de ocorrência.
+- As colisões traseiras e as saídas de leito carroçável apresentam os maiores volumes entre os tipos de ocorrência registrados.
 # Acidentes por motivo
-- Os principais motivos para acidentes é a falta de atenção e a velocidade incompatível com a via.
+- A falta de atenção à condução e a velocidade incompatível estão entre os principais motivos associados aos acidentes.
 # Acidentes por condição meteorológica
-- A maioria dos acidentes ocorreram enquanto o céu estava claro.
+- A maior parte dos acidentes ocorreu sob céu claro, seguido por condições de tempo nublado e chuva.
 # Distribuição por Estado
-- Os estados onde mais ocorrem acidentes são, respectivamente, MG, SC e PR.
+- Minas Gerais, Santa Catarina e Paraná apresentam os maiores volumes de acidentes entre os estados analisados.
 # Acidentes por tipo de pista
-- Os principais acidentes ocorrem em pista simples.
+- A maior parte dos acidentes ocorreu em pistas simples, representando mais da metade das ocorrências.
 # Municípios com mais acidentes
-- Curitiba, Brasília e São Jose-SC são as cidades onde ocorrem mais acidentes.
+- Entre os municípios com maior número de acidentes estão Curitiba, Brasília e São José-SC.
 
-# Pagina 1
+# Página 2 — Incidência de acidentes ao longo do tempo
 
 ![Dashboard Detran](detran2.PNG)
 
 # Acidentes por hora
-- Os acidentes ocorrem principalmente nos horários de pico, tanto de manha, entre 6h e 8h, como no final do dia, entre 17h e 19h.
+- Os acidentes apresentam maior concentração nos horários de pico, principalmente entre 6h e 8h e entre 17h e 19h.
 # Acidentes dia da semana
-- A maioria dos acidentes ocorrem no final de semana, entre sexta-feira e domingo.
+- Sexta-feira, sábado e domingo concentram os maiores volumes de acidentes ao longo da semana.
 # Top 3 motivos com maior taxa de mortalidade
-- Colisão frontal é disparado o motivo com a maior taxa de mortalidade, com 38,35%.
+- A colisão frontal apresenta a maior taxa de mortalidade entre os motivos analisados, atingindo 38,35%.
 # Acidentes por mês
-- Dezembro e Janeiro lideram as estatísticas, possivelmente férias de verão onde as pessoas tendem a viajar mais, entretanto, para uma analise mais apurada, é necessário mais dados de anos anteriores para confirmar o padrão.
+- Dezembro e janeiro** apresentam os maiores volumes de acidentes. Esse comportamento pode estar relacionado ao aumento do fluxo de veículos durante o período de férias e festas de fim de ano. Entretanto, são necessários dados de outros anos para verificar se esse padrão se mantém e evitar conclusões baseadas em apenas um período.
 
 # Ferramentas utilizadas
 
@@ -74,6 +77,15 @@ Projeto de análise de dados desenvolvido em **Power BI**, com o objetivo de ana
 - Visualização de dados
   
 # Insights
+
+- Aproximadamente **60% dos acidentes ocorreram em trechos retos**.
+- A **falta de atenção à condução** é o principal motivo registrado para os acidentes.
+- **Céu claro** foi a condição meteorológica predominante nas ocorrências.
+- **Minas Gerais** apresentou o maior volume de acidentes entre os estados analisados.
+- **Sexta-feira, sábado e domingo** concentram grande parte das ocorrências semanais.
+- Os horários de **6h–8h e 17h–19h** apresentam maior concentração de acidentes.
+- A **colisão frontal** apresenta a maior taxa de mortalidade entre os motivos analisados.
+- **Dezembro e janeiro** registraram os maiores volumes de acidentes.
 
 # Autor
 
