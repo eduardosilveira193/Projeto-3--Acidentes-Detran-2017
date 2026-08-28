@@ -13,7 +13,7 @@ O dashboard busca transformar os dados de acidentes em informações relevantes 
 - Identificar os estados e municípios com maior número de acidentes.
 - Identificar os meses, dias da semana e horários com maior incidência de acidentes.
 - Analisar os motivos associados às maiores taxas de mortalidade.
-- 
+  
 # Principais indicadores
 
 - | Numero de Acidentes | Resultado |
