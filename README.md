@@ -57,7 +57,7 @@ O dashboard busca transformar os dados de acidentes em informações relevantes 
 # Top 3 motivos com maior taxa de mortalidade
 - A colisão frontal apresenta a maior taxa de mortalidade entre os motivos analisados, atingindo 38,35%.
 # Acidentes por mês
-- Dezembro e janeiro** apresentam os maiores volumes de acidentes. Esse comportamento pode estar relacionado ao aumento do fluxo de veículos durante o período de férias e festas de fim de ano. Entretanto, são necessários dados de outros anos para verificar se esse padrão se mantém e evitar conclusões baseadas em apenas um período.
+- Dezembro e janeiro apresentam os maiores volumes de acidentes. Esse comportamento pode estar relacionado ao aumento do fluxo de veículos durante o período de férias e festas de fim de ano. Entretanto, são necessários dados de outros anos para verificar se esse padrão se mantém e evitar conclusões baseadas em apenas um período.
 
 # Ferramentas utilizadas
 
